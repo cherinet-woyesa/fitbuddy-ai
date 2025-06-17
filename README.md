@@ -1,3 +1,82 @@
+# FitBuddy AI 🏋️‍♂️
+
+FitBuddy AI is a smart fitness companion app built with Expo and React Native. It helps users track their workouts, get personalized fitness recommendations, and achieve their fitness goals with AI-powered insights.
+
+## Features
+
+- 🔐 Secure authentication with Firebase
+- 💪 Workout tracking and progress monitoring
+- 🤖 AI-powered fitness recommendations
+- 📊 Progress analytics and insights
+- 🎯 Personalized workout plans
+- 📱 Cross-platform support (iOS & Android)
+
+## Tech Stack
+
+- [Expo](https://expo.dev/) - React Native framework
+- [Firebase](https://firebase.google.com/) - Authentication and backend services
+- [React Native](https://reactnative.dev/) - Mobile app development
+- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
+
+## Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yourusername/fitbuddy-ai.git
+   cd fitbuddy-ai
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   ```
+
+3. Set up environment variables
+   - Create a `.env` file in the root directory
+   - Add your Firebase configuration (see `.env.example` for reference)
+
+4. Start the development server
+   ```bash
+   npx expo start
+   ```
+
+## Development
+
+You can run the app on:
+- iOS Simulator
+- Android Emulator
+- Physical device using Expo Go
+
+## Project Structure
+
+```
+fitbuddy-ai/
+├── app/              # Main application code
+├── components/       # Reusable UI components
+├── context/         # React Context providers
+├── config/          # Configuration files
+├── hooks/           # Custom React hooks
+└── types/           # TypeScript type definitions
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+If you encounter any issues or have questions, please:
+- Open an issue in the GitHub repository
+- Contact the development team
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
