@@ -22,7 +22,7 @@ FitBuddy AI is a smart fitness companion app built with Expo and React Native. I
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/fitbuddy-ai.git
+   git clone https://github.com/cherinet-woyesa/fitbuddy-ai.git
    cd fitbuddy-ai
    ```
 
@@ -67,15 +67,12 @@ fitbuddy-ai/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
 If you encounter any issues or have questions, please:
-- Open an issue in the GitHub repository
-- Contact the development team
+
+- Contact me
 
 # Welcome to your Expo app 👋
 
